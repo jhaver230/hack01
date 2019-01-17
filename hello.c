@@ -2,4 +2,6 @@
 
 void main(void){
 	printf("Jay Haver\n");
+	printf("Tom Seewald\n");
+	printf("Mathematics\n");
 }
